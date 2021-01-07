@@ -26,3 +26,5 @@ From the screenshots of the script performances below, we can clearly see that t
 
 
 ### Summary
+In general, the advantages of refractoring code is quite clear as it improves the design of the software in general, making it easier to debug as well adding further enhancement. It also help reduce the number of lines of codes to complete a certain features. However, it is not a best practice to refractoring code when you are close to the deadline or your budget is limited as the amount of time and effort going into refractoring could increases your project cost significantly.
+For this specific exercise, 
